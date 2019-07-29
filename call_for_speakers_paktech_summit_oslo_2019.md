@@ -3,8 +3,8 @@ Join EjadLabs and partners for a 10-day technological innovation experience in O
 
 #### More Details
 * Location: Oslo, Norway
-* Date: 
-* Details: ejadlabs.com/oslo
+* Date: 20 - 30 September 2019
+* Details: https://www.ejadlabs.com/oslo 
 
 ## Call for Participation (Women-led SME)
 Thanks to the support of City of Oslo, Startup Grind Oslo and MAK - you will get a chance to attend the Oslo Innovation Week in September and network with Norway's tech ecosystem.
