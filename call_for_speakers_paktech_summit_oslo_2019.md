@@ -4,16 +4,14 @@ Join EjadLabs and partners for a 10-day technological innovation experience in O
 * Date: 
 
 ## Call for Participation (Women-led SME)
-Apply to attend the Pakistan Tech Summit 2019 in Oslo where we will showcase the best of Pakistani Tech Talent. Thanks to the support of City of Oslo, Startup Grind Oslo and MAK - you will get a chance to attend the Oslo Innovation Week in September and network with Norway's tech ecosystem.
+Thanks to the support of City of Oslo, Startup Grind Oslo and MAK - you will get a chance to attend the Oslo Innovation Week in September and network with Norway's tech ecosystem.
 
-There's a 50% off on program fee for selected SMEs, and 75% off for women-led SMEs - let me know if you want me to recommend you.
-
-Limited slots and subject to availability.
+Apply to attend the Pakistan Tech Summit 2019 in Oslo where we will showcase the best of Pakistani Tech Talent. There is a 50% discount on  the program fee for selected SMEs, and a 75% discount for women-led SMEs.  Let me know if you me to recommend you. The slots are limited and subject to availability.
 
 Details & Application → ejadlabs.com/oslo
 
 ## Call For Speakers
-Pakistan Tech Summit is accepting speaker applications under multiple technology tracks in a wide variety of session formats. If you are interested in speaking at the event, please submit your speaker profile, your preferred session format and an abstract of your proposed talk using the form below. The speaker benefits will cover the cost of the event (transportation and lodging is not included).
+Pakistan Tech Summit is accepting speaker applications under multiple technology tracks in a wide variety of session formats. If you are interested in speaking at the event, please submit your speaker profile, your preferred session format and an abstract of your proposed talk using the form below. The speaker benefits will cover the cost of the event; this does not include transportation and lodging.
 
 http://bit.ly/speaker-call-oslo
 
