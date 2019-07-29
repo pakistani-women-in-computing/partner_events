@@ -1,8 +1,8 @@
 # Pakistan Tech Exchange Summit (20 - 30 September 2019) - Oslo Norway
 Join EjadLabs and partners for a 10-day technological innovation experience in Oslo, Norway and participate in more than 50 events during the Oslo Innovation Week to connect with more than 11,000 technology leaders, startup founders, corporate executives, investors from Norway and other parts of the world. 
 
-#### 
-* Learn More: https://www.ejadlabs.com/oslo 
+#### Learn More
+https://www.ejadlabs.com/oslo 
 
 ## Call for Participation (Women-led SME)
 Thanks to the support of City of Oslo, Startup Grind Oslo and MAK - you will get a chance to attend the Oslo Innovation Week in September and network with Norway's tech ecosystem.
