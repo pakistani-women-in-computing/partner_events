@@ -8,5 +8,7 @@ Join Facebook Developer Circle's Facebook Group: https://www.facebook.com/groups
 
 #### Event Details
 Event Details: www.facebook.com/events/909651956094112
+
 Registration: https://islamabadcommunitychallenge19.splashthat.com/
+
 Deadline: 31st July, 2019
