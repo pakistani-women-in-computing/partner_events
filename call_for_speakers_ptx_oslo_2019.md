@@ -4,12 +4,12 @@ Join EjadLabs and partners for a 10-day technological innovation experience in O
 #### Learn More
 https://www.ejadlabs.com/oslo 
 
-## Call for Participation (Women-led SME)
+## Call for Participation - Women-led SME (Deadline: 31 July, 2019)
 Thanks to the support of City of Oslo, Startup Grind Oslo and MAK - you will get a chance to attend the Oslo Innovation Week in September and network with Norway's tech ecosystem.
 
 Apply to attend the Pakistan Tech Summit 2019 in Oslo where we will showcase the best of Pakistani Tech Talent. There is a 50% discount on  the program fee for selected SMEs, and a 75% discount for women-led SMEs.  Let me know if you me to recommend you. The slots are limited and subject to availability.
 
-#### Application Form (Deadline: 31 July, 2019)
+#### Application Form
 https://docs.google.com/forms/d/e/1FAIpQLSd9HsYPrhpY_RhuLOhaO-8bCYWIzr_HdgxGYen-IykyxdrtXQ/viewform
 
 
