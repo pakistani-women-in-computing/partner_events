@@ -4,7 +4,7 @@ Join EjadLabs and partners for a 10-day technological innovation experience in O
 #### Learn More
 https://www.ejadlabs.com/oslo 
 
-## Call For Speakers (Deadline: 15 August, 2019)
+## Call For Speakers (Deadline: 25 August, 2019)
 Pakistan Tech Summit is accepting speaker applications under multiple technology tracks in a wide variety of session formats. If you are interested in speaking at the event, please submit your speaker profile, your preferred session format and an abstract of your proposed talk using the form below. The speaker benefits will cover the cost of the event; this does not include transportation and lodging.
 
 #### Speaker Application Form
