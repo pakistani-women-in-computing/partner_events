@@ -20,7 +20,7 @@ As PWiC / PTX volunteers, you will do everything from receiving the delegates, i
 For your efforts on behalf of PWiC, you will receive complimentary registration and will be able to attend sessions, get access to the Oslo Innovation Week (23-27 September 2019), network with the attendees, and take advantage of everything the PTX Summit has to offer. This will not cover traveling and lodging cost to the event*
 
 #### Volunteer Application Form
-http://bit.ly/33gGGEr
+http://bit.ly/ptx-volunteer-oslo
 
 ## Call for Participation - Women-led SME (Deadline: 31 July, 2019 - APPLICATIONS CLOSED)
 Thanks to the support of City of Oslo, Startup Grind Oslo and MAK - you will get a chance to attend the Oslo Innovation Week in September and network with Norway's tech ecosystem.
