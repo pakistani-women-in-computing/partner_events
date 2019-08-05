@@ -4,16 +4,13 @@ Join EjadLabs and partners for a 10-day technological innovation experience in O
 #### Learn More
 https://www.ejadlabs.com/oslo 
 
-## Call For Speakers (Deadline: 25 August, 2019)
+## Call For Speakers (Deadline: 20 August, 2019)
 Pakistan Tech Summit is accepting speaker applications under multiple technology tracks in a wide variety of session formats. If you are interested in speaking at the event, please submit your speaker profile, your preferred session format and an abstract of your proposed talk using the form below. The speaker benefits will cover the cost of the event; this does not include transportation and lodging.
 
 #### Speaker Application Form
 http://bit.ly/speaker-call-oslo
 
 ## Call for Volunteers (Deadline: 25 August, 2019)
-Pakistani Women in Computing (PWiC) is the community outreach partner with Ejad Labs for PTX Oslo, Norway 2019 Summit (https://www.ejadlabs.com/oslo) happening between September (20 - 21 September, 2019) close to Oslo City Center. 
-
-### Call for Volunteers
 We are looking for Volunteers form our PWiC Community in Oslo, Norway and other neighboring countries who would like to participate in organizing the event while building their professional network and understanding of Pakistan's tech and entrepreneurial space in Norway an beyond. 
 
 ### Duties
